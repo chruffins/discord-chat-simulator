@@ -1,4 +1,3 @@
-#!/usr/bin/python
 import json
 import os
 import pprint
@@ -9,7 +8,7 @@ import argparse
 import logging
 import requests
 
-token = 'ODIwODM2NjUzMzExODUyNTk1.YE69tA.ifaygu8AqDkisUUu8W2QA-kAYCY'
+token = 'token_here' # bot token goes here!
 MLmode = True
 channel_override = True
 channel_override_name = "chatroom"
